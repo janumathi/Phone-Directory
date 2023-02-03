@@ -1,0 +1,616 @@
+# depslib dependency file v1.0
+1632142226 source:c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\main.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+
+1632146628 source:c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\array.c
+	"array.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632146628 c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\array.h
+	"queue.h"
+
+1632052710 c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\queue.h
+	"contact.h"
+
+1632051776 c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\contact.h
+
+1632056467 source:c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\add.c
+	"add.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632055100 c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\add.h
+
+1632053859 source:c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\contact.c
+	"contact.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632055502 source:c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\file.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632055571 c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\file.h
+	"queue.h"
+
+1632055880 source:c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\queue.c
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632055502 c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\file.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632146726 source:c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\display.c
+	"display.h"
+	"queue.h"
+	"file.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632141200 c:\users\pon kamali\onedrive\desktop\phone directory\phone directory project\phonedirectory\display.h
+
+1632401651 source:c:\users\hp\desktop\dsa project\phonedirectory\add.c
+	"add.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632151497 c:\users\hp\desktop\dsa project\phonedirectory\add.h
+
+1632323098 c:\users\hp\desktop\dsa project\phonedirectory\queue.h
+	"contact.h"
+
+1632400396 c:\users\hp\desktop\dsa project\phonedirectory\contact.h
+
+1632234164 c:\users\hp\desktop\dsa project\phonedirectory\file.h
+	"queue.h"
+
+1632402525 source:c:\users\hp\desktop\dsa project\phonedirectory\array.c
+	"array.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153313 c:\users\hp\desktop\dsa project\phonedirectory\array.h
+	"queue.h"
+
+1632151498 source:c:\users\hp\desktop\dsa project\phonedirectory\display.c
+	"display.h"
+	"queue.h"
+	"file.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632151498 c:\users\hp\desktop\dsa project\phonedirectory\display.h
+
+1632234164 source:c:\users\hp\desktop\dsa project\phonedirectory\file.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632380480 source:c:\users\hp\desktop\dsa project\phonedirectory\main.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+	"search.h"
+	"display.h"
+	"delete.h"
+	"edit.h"
+
+1632402463 source:c:\users\hp\desktop\dsa project\phonedirectory\queue.c
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632400931 source:c:\users\hp\desktop\dsa project\phonedirectory\contact.c
+	"contact.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632151495 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\add.c
+	"add.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632151497 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\add.h
+
+1632323098 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\queue.h
+	"contact.h"
+
+1632151498 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\contact.h
+
+1632234164 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\file.h
+	"queue.h"
+
+1632323819 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\array.c
+	"array.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153313 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\array.h
+	"queue.h"
+
+1632151498 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\contact.c
+	"contact.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632151498 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\display.c
+	"display.h"
+	"queue.h"
+	"file.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632151498 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\display.h
+
+1632234164 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\file.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632322298 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\main.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+	"search.h"
+	"display.h"
+	"delete.h"
+
+1632323819 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\queue.c
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153942 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\search.c
+	"search.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632153616 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\search.h
+
+1632323466 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\delete.c
+	"delete.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632322318 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\delete.h
+
+1632323134 c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\stack.h
+	"queue.h"
+
+1632322298 source:c:\users\pon kamali\onedrive\desktop\pdproj\phonedirectory\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632151495 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\add.c
+	"add.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632151497 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\add.h
+
+1632323098 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\queue.h
+	"contact.h"
+
+1632151498 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\contact.h
+
+1632234164 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\file.h
+	"queue.h"
+
+1632323819 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\array.c
+	"array.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153313 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\array.h
+	"queue.h"
+
+1632151498 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\contact.c
+	"contact.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632378839 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\delete.c
+	"delete.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632322318 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\delete.h
+
+1632323134 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\stack.h
+	"queue.h"
+
+1632151498 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\display.c
+	"display.h"
+	"queue.h"
+	"file.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632151498 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\display.h
+
+1632234164 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\file.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632380480 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\main.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+	"search.h"
+	"display.h"
+	"delete.h"
+	"edit.h"
+
+1632153616 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\search.h
+
+1632323819 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\queue.c
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153942 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\search.c
+	"search.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632322298 source:c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632380782 c:\users\hp\desktop\lakshana 3rd sem\phonedirectory\edit.h
+
+1632470685 source:c:\users\hp\desktop\dsa project\phonedirectory\delete.c
+	"delete.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632322318 c:\users\hp\desktop\dsa project\phonedirectory\delete.h
+
+1632468543 c:\users\hp\desktop\dsa project\phonedirectory\stack.h
+	"queue.h"
+
+1632401060 source:c:\users\hp\desktop\dsa project\phonedirectory\edit.c
+	"edit.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	"contact.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632380782 c:\users\hp\desktop\dsa project\phonedirectory\edit.h
+
+1632153616 c:\users\hp\desktop\dsa project\phonedirectory\search.h
+
+1632153942 source:c:\users\hp\desktop\dsa project\phonedirectory\search.c
+	"search.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632469835 source:c:\users\hp\desktop\dsa project\phonedirectory\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632401651 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\add.c
+	"add.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632151497 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\add.h
+
+1632323098 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\queue.h
+	"contact.h"
+
+1632400396 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\contact.h
+
+1632234164 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\file.h
+	"queue.h"
+
+1632402525 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\array.c
+	"array.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153313 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\array.h
+	"queue.h"
+
+1632471152 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\contact.c
+	"contact.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632470685 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\delete.c
+	"delete.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632322318 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\delete.h
+
+1632468543 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\stack.h
+	"queue.h"
+
+1632151498 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\display.c
+	"display.h"
+	"queue.h"
+	"file.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632151498 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\display.h
+
+1632483423 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\edit.c
+	"edit.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	"contact.h"
+	"favourites.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632380782 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\edit.h
+
+1632234164 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\file.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632471152 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\queue.c
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153942 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\search.c
+	"search.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632153616 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\search.h
+
+1632469835 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632480794 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\main.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+	"search.h"
+	"display.h"
+	"delete.h"
+	"edit.h"
+	"favourites.h"
+
+1632484749 c:\users\hp\downloads\phonedirectory (1)\phonedirectory\favourites.h
+
+1632483966 source:c:\users\hp\downloads\phonedirectory (1)\phonedirectory\favourites.c
+	"favourites.h"
+	"queue.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632401651 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\add.c
+	"add.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632151497 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\add.h
+
+1632323098 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\queue.h
+	"contact.h"
+
+1632400396 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\contact.h
+
+1632234164 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\file.h
+	"queue.h"
+
+1632402525 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\array.c
+	"array.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153313 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\array.h
+	"queue.h"
+
+1632471152 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\contact.c
+	"contact.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632559922 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\delete.c
+	"delete.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	"stack.h"
+	"favourites.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632322318 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\delete.h
+
+1632468543 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\stack.h
+	"queue.h"
+
+1632484749 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\favourites.h
+
+1632151498 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\display.c
+	"display.h"
+	"queue.h"
+	"file.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632151498 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\display.h
+
+1632483423 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\edit.c
+	"edit.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	"contact.h"
+	"favourites.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632380782 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\edit.h
+
+1632483966 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\favourites.c
+	"favourites.h"
+	"queue.h"
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632234164 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\file.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632480794 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\main.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+	"search.h"
+	"display.h"
+	"delete.h"
+	"edit.h"
+	"favourites.h"
+
+1632153616 c:\users\hp\downloads\phonedirectory (2)\phonedirectory\search.h
+
+1632471152 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\queue.c
+	"queue.h"
+	"file.h"
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632153942 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\search.c
+	"search.h"
+	"array.h"
+	"queue.h"
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632469835 source:c:\users\hp\downloads\phonedirectory (2)\phonedirectory\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
